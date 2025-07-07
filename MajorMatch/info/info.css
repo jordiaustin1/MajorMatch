@@ -1,0 +1,1162 @@
+
+.image-5-icon {
+    width: 100%;
+    height: 587px;
+    position: absolute;
+    margin: 0 !important;
+    top: 70px;
+    right: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .logo-container-child {
+    width: 1440px;
+    height: 587px;
+    position: relative;
+    background-color: var(--color-gainsboro-200);
+    display: none;
+    max-width: 100%;
+  }
+  .logobinus-1-icon {
+    height: 179px;
+    width: 244px;
+    position: relative;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .logo-wrapper {
+    width: 1278px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 6px 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .binus-dikenal-sebagai,
+  .blank-line,
+  .blank-line1,
+  .dengan-segudang-raihan,
+  .universitas-bina-nusantara {
+    display: block;
+  }
+  .universitas-bina-nusantara-container {
+    margin: 0;
+    width: 1278px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 2;
+  }
+  .logo-container,
+  .logo-container-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .logo-container {
+    flex: 1;
+    background-color: var(--color-gainsboro-200);
+    flex-direction: column;
+    align-items: center;
+    padding: 10px var(--padding-xl) var(--padding-26xl) 23px;
+    gap: var(--gap-mid);
+    z-index: 1;
+  }
+  .logo-container-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 0 38px 3px;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-montserrat);
+  }
+  .fakultas-unggulan {
+    width: 395px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .school-design-container-child {
+    width: 1338px;
+    height: 91px;
+    position: relative;
+    background-color: var(--color-dodgerblue-100);
+    display: none;
+    max-width: 100%;
+  }
+  .interior-design-,
+  .school-of-design {
+    width: 390px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .interior-design- {
+    width: 1027px;
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    color: var(--color-dimgray);
+  }
+  .school-design-container {
+    flex: 1;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-mini) var(--padding-xl) var(--padding-5xs)
+      var(--padding-5xl);
+    box-sizing: border-box;
+    gap: var(--gap-9xs);
+    max-width: 100%;
+  }
+  .school-design-container-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0 0 var(--padding-xs);
+    box-sizing: border-box;
+  }
+  .faculty-container,
+  .faculty-container-wrapper,
+  .school-design-container-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .faculty-container {
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-16xl);
+  }
+  .faculty-container-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-29xl) var(--padding-10xl) 42px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+    font-family: var(--font-montserrat);
+  }
+  .school-computer-container-child {
+    width: 1338px;
+    height: 91px;
+    position: relative;
+    background-color: #fff;
+    display: none;
+    max-width: 100%;
+  }
+  .cyber-security-,
+  .school-of-computer {
+    width: 567px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .cyber-security- {
+    width: 1152px;
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    color: var(--color-dimgray);
+  }
+  .school-computer-container,
+  .school-computer-container-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .school-computer-container {
+    flex: 1;
+    flex-direction: column;
+    padding: 16px var(--padding-xl) var(--padding-5xs) var(--padding-5xl);
+    gap: 3px;
+  }
+  .school-computer-container-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-29xl) var(--padding-10xl) 54px;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+    font-family: var(--font-montserrat);
+  }
+
+  .image-6-icon,
+  .info-separator {
+    position: absolute;
+    margin: 0 !important;
+    left: 0;
+  }
+  .image-6-icon {
+    width: 100%;
+    height: 861px;
+    top: 1261px;
+    right: 0;
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .info-separator {
+    width: 1338px;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+  }
+  .school-of-information {
+    width: 567px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .information-systems- {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    z-index: 1;
+  }
+  .school-info-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-mini) 0 var(--padding-5xs) var(--padding-5xl);
+    box-sizing: border-box;
+    position: relative;
+    gap: var(--gap-9xs);
+    max-width: 100%;
+  }
+  .arrow-alt-ldown-icon {
+    height: 77px;
+    width: 77px;
+    position: relative;
+  }
+  .arrow-alt-ldown-wrapper,
+  .school-info-container {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+
+  .school-info-container {
+    width: 1352px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 34px;
+  }
+  .school-info-container-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 34px var(--padding-29xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+    font-family: var(--font-montserrat);
+  }
+
+  .facility {
+    margin: 0;
+    width: 395px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 900;
+    font-family: inherit;
+    display: inline-block;
+    flex-shrink: 0;
+    max-width: 100%;
+    z-index: 2;
+  }
+  .facility-wrapper {
+    width: 1209px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 100%;
+  }
+  .atm,
+  .binus-access,
+  .binus-maya,
+  .binus-square,
+  .blank-line10,
+  .blank-line11,
+  .blank-line2,
+  .blank-line3,
+  .blank-line4,
+  .blank-line5,
+  .blank-line6,
+  .blank-line7,
+  .blank-line8,
+  .blank-line9,
+  .incubator-class,
+  .lab-bahasa,
+  .lab-broadcasting,
+  .lab-marketing,
+  .perpustakaan,
+  .reguler-classroom,
+  .smart-class {
+    display: block;
+  }
+  .reguler-classroom-smart-container {
+    margin: 0;
+    width: 342px;
+    position: relative;
+    font-weight: 900;
+    display: inline-block;
+    flex-shrink: 0;
+    min-width: 342px;
+    max-width: 100%;
+    z-index: 2;
+  }
+  .asrama-mahasiswa,
+  .binusian-card,
+  .blank-line12,
+  .blank-line13,
+  .blank-line14,
+  .blank-line15,
+  .blank-line16,
+  .blank-line17,
+  .blank-line18,
+  .blank-line19,
+  .blank-line20,
+  .food-court,
+  .gedung-kuliah,
+  .gedung-parkir,
+  .klinik-kesehatan,
+  .lab-design,
+  .lab-komputer,
+  .lab-management,
+  .lab-teknik-industri {
+    display: block;
+  }
+  .lab-komputer-lab-container {
+    margin: 0;
+    position: relative;
+    font-weight: 900;
+    display: inline-block;
+    min-width: 261px;
+    z-index: 2;
+  }
+  .apple-developer-academy,
+  .binus-tv,
+  .blank-line21,
+  .blank-line22,
+  .blank-line23,
+  .blank-line24,
+  .blank-line25,
+  .blank-line26,
+  .blank-line27,
+  .blank-line28,
+  .cooking-studio,
+  .gym-center,
+  .lab-arsitektur-dan,
+  .lapangan-olahraga,
+  .mock-up-hotel-room,
+  .pastry-lab,
+  .restaurant-bar {
+    display: block;
+  }
+  .binus-tv-lapangan-container {
+    margin: 0;
+    position: relative;
+    font-weight: 900;
+    z-index: 2;
+  }
+  .facility-details-container,
+  .facility-specifics {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .facility-specifics {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: var(--padding-xs) 0 0;
+    box-sizing: border-box;
+    min-width: 357px;
+  }
+  .facility-details-container {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .facility-details-container-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 11px 0 0;
+    box-sizing: border-box;
+    min-width: 487px;
+    max-width: 100%;
+  }
+  .facility-container,
+  .reguler-classroom-smart-class-parent {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .reguler-classroom-smart-class-parent {
+    flex-direction: row;
+    justify-content: center;
+    gap: 132px;
+    font-size: var(--font-size-5xl);
+  }
+  .facility-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 40px 102px var(--padding-51xl) 115px;
+    box-sizing: border-box;
+    gap: 71px;
+    z-index: 1;
+  }
+  .campuses {
+    margin: 0;
+    width: 395px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 900;
+    font-family: inherit;
+    display: inline-block;
+    flex-shrink: 0;
+    max-width: 100%;
+  }
+  .campuses-wrapper,
+  .facility-container-parent {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .campuses-wrapper {
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+    color: var(--color-midnightblue);
+  }
+  .facility-container-parent {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 78px;
+    gap: 49px;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--color-white);
+    font-family: var(--font-montserrat);
+  }
+  .kemanggisan-separator {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    bottom: 4px;
+    left: -39px;
+    background-color: var(--color-lavender);
+  }
+  .binus {
+    font-weight: 900;
+  }
+  .kemanggisan {
+    font-weight: 500;
+  }
+  .binus-kemanggisan,
+  .lorem-ipsum-dolor {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .binus-kemanggisan {
+    width: 598px;
+    font-size: inherit;
+    font-family: inherit;
+  }
+  .lorem-ipsum-dolor {
+    width: 652px;
+    flex-shrink: 0;
+  }
+  .kemanggisan-description,
+  .kemanggisan-separator-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+  }
+  .kemanggisan-separator-parent {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: var(--padding-10xl) var(--padding-292xl) 84px 432px;
+    box-sizing: border-box;
+    position: relative;
+    gap: 32px;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-montserrat);
+  }
+  .binus1 {
+    font-weight: 900;
+  }
+  .alam-sutera {
+    font-weight: 500;
+  }
+  .binus-alam-sutera-container,
+  .lorem-ipsum-dolor1 {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .binus-alam-sutera-container {
+    width: 598px;
+    font-size: inherit;
+    font-family: inherit;
+  }
+  .lorem-ipsum-dolor1 {
+    width: 652px;
+    flex-shrink: 0;
+  }
+  .lorem-ipsum-dolor-sit-amet-co-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+  }
+  .binus-alam-sutera-parent,
+  .frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+  }
+  .binus-alam-sutera-parent {
+    align-self: stretch;
+    gap: var(--gap-xl);
+    max-width: 100%;
+  }
+  .frame-wrapper {
+    margin-left: -1013px;
+    width: 721px;
+    padding: var(--padding-5xl) 0 0;
+    box-sizing: border-box;
+    min-width: 721px;
+    max-width: 164%;
+  }
+  .image-8-icon {
+    width: 440px;
+    position: relative;
+    max-height: 100%;
+    object-fit: cover;
+    flex-shrink: 0;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .frame-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 1000px;
+    box-sizing: border-box;
+    gap: 292px;
+    max-width: 100%;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-montserrat);
+  }
+  .frame-child,
+  .image-9-icon {
+    position: relative;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .frame-child {
+    align-self: stretch;
+    width: 1440px;
+    background-color: var(--color-lavender);
+    display: none;
+  }
+  .image-9-icon {
+    margin-left: -358px;
+    width: 456px;
+    max-height: 100%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  .binus2 {
+    font-weight: 900;
+  }
+  .bogor {
+    font-weight: 500;
+  }
+  .binus-bogor,
+  .lorem-ipsum-dolor2 {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .binus-bogor {
+    width: 598px;
+    font-size: inherit;
+    z-index: 2;
+    font-family: inherit;
+  }
+  .lorem-ipsum-dolor2 {
+    width: 652px;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .lorem-ipsum-dolor-sit-amet-co-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+  }
+  .binus-bogor-parent,
+  .frame-container,
+  .rectangle-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .binus-bogor-parent {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 28px;
+  }
+  .frame-container,
+  .rectangle-parent {
+    box-sizing: border-box;
+  }
+  .frame-container {
+    width: 787px;
+    flex-direction: column;
+    padding: 19px 0 0;
+    min-width: 787px;
+    flex-shrink: 0;
+    margin-left: -98px;
+  }
+  .rectangle-parent {
+    align-self: stretch;
+    background-color: var(--color-lavender);
+    flex-direction: row;
+    padding: 0 var(--padding-292xl) 0 342px;
+    row-gap: 20px;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-montserrat);
+  }
+  .binus3 {
+    font-weight: 900;
+  }
+  .malang {
+    font-weight: 500;
+  }
+  .binus-malang,
+  .lorem-ipsum-dolor3 {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .binus-malang {
+    width: 598px;
+    font-size: inherit;
+    font-family: inherit;
+  }
+  .lorem-ipsum-dolor3 {
+    width: 652px;
+    flex-shrink: 0;
+  }
+  .lorem-ipsum-dolor-sit-amet-co-frame {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+  }
+  .binus-malang-parent,
+  .frame-div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+  }
+  .binus-malang-parent {
+    align-self: stretch;
+    gap: var(--gap-xl);
+    max-width: 100%;
+  }
+  .frame-div {
+    margin-left: -987px;
+    width: 784px;
+    padding: 25px 0 0;
+    box-sizing: border-box;
+    min-width: 784px;
+    max-width: 149%;
+  }
+  .image-10-icon {
+    width: 529px;
+    position: relative;
+    max-height: 100%;
+    object-fit: cover;
+    flex-shrink: 0;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .frame-group {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 41px 911px;
+    box-sizing: border-box;
+    gap: 203px;
+    max-width: 100%;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-montserrat);
+  }
+  .arrow-alt-ldown-icon1 {
+    height: 77px;
+    width: 77px;
+    position: relative;
+  }
+  .arrow-alt-ldown-container {
+    width: 1231px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .available-scholarships {
+    margin: 0;
+    width: 600px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 900;
+    font-family: inherit;
+    display: inline-block;
+    flex-shrink: 0;
+    max-width: 100%;
+  }
+  .available-scholarships-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+
+  .available-scholarships-wrapper.image{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .available-scholarships-wrapper.image .image img {
+    max-width: 100%; /* Responsive images */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px; /* Slightly rounded corners for images */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for images */
+    transition: transform 0.3s; /* Smooth transformation */
+  }
+
+  .available-scholarships-wrapper.image .image img:hover {
+    transform: scale(1.05); /* Slight zoom on hover */
+  }
+
+  .scholarship-container-child,
+  .scholarship-container-item {
+    width: 1281px;
+    height: 223px;
+    position: relative;
+    border-radius: var(--br-14xl);
+    background-color: var(--color-gainsboro-100);
+    max-width: 100%;
+  }
+  .desktop-8,
+  .frame-section,
+  .scholarship-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .scholarship-container {
+    align-self: stretch;
+    align-items: flex-end;
+    gap: 47px;
+    max-width: 102%;
+    flex-shrink: 0;
+  }
+  .desktop-8,
+  .frame-section {
+    box-sizing: border-box;
+  }
+  .frame-section {
+    width: 1355px;
+    align-items: flex-end;
+    padding: 0 var(--padding-xl) 0 0;
+    gap: 70px;
+    max-width: 100%;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-montserrat);
+  }
+  .desktop-8 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    overflow: hidden;
+    align-items: flex-start;
+    padding: var(--padding-51xl) 0 482px;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1425px) {
+    .reguler-classroom-smart-container {
+      flex: 1;
+    }
+    .reguler-classroom-smart-class-parent {
+      flex-wrap: wrap;
+      gap: 66px;
+    }
+    .frame-wrapper {
+      flex: 1;
+      min-width: 100%;
+    }
+    .image-8-icon {
+      flex: 1;
+    }
+    .frame-parent {
+      flex-wrap: wrap;
+      gap: 146px;
+      padding-left: 500px;
+      box-sizing: border-box;
+    }
+    .image-9-icon {
+      flex: 1;
+    }
+    .frame-container {
+      flex: 1;
+      min-width: 100%;
+    }
+    .rectangle-parent {
+      flex-wrap: wrap;
+      padding-left: 171px;
+      padding-right: var(--padding-136xl);
+      box-sizing: border-box;
+    }
+    .frame-div {
+      flex: 1;
+      min-width: 100%;
+    }
+    .image-10-icon {
+      flex: 1;
+    }
+    .frame-group {
+      flex-wrap: wrap;
+      gap: 101px;
+      padding-left: 455px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 1200px) {
+    .facility-container {
+      padding-top: 26px;
+      padding-bottom: var(--padding-26xl);
+      box-sizing: border-box;
+    }
+    .facility-container-parent {
+      padding-bottom: var(--padding-32xl);
+      box-sizing: border-box;
+    }
+    .frame-wrapper {
+      min-width: 100%;
+    }
+    .frame-container {
+      min-width: 100%;
+      margin-left: 0;
+    }
+    .frame-div {
+      min-width: 100%;
+    }
+  }
+  @media screen and (max-width: 825px) {
+    .logo-container {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-10xl);
+      box-sizing: border-box;
+    }
+    .fakultas-unggulan,
+    .school-of-design {
+      font-size: var(--font-size-7xl);
+    }
+    .faculty-container {
+      gap: var(--gap-mid);
+    }
+    .faculty-container-wrapper {
+      padding-left: var(--padding-2xl);
+      padding-right: var(--padding-5xl);
+      box-sizing: border-box;
+    }
+    .school-of-computer {
+      font-size: var(--font-size-7xl);
+    }
+    .school-computer-container-wrapper {
+      padding-left: 27px;
+      padding-right: var(--padding-5xl);
+      box-sizing: border-box;
+    }
+    .school-of-information {
+      font-size: var(--font-size-7xl);
+    }
+    .school-info-container {
+      gap: var(--gap-mid);
+    }
+    .facility {
+      font-size: var(--font-size-19xl);
+    }
+    .reguler-classroom-smart-container {
+      min-width: 100%;
+    }
+    .lab-komputer-lab-container {
+      flex: 1;
+    }
+    .facility-specifics {
+      flex: 1;
+      min-width: 100%;
+    }
+    .facility-details-container {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .facility-details-container-wrapper {
+      min-width: 100%;
+    }
+    .reguler-classroom-smart-class-parent {
+      gap: 33px;
+    }
+    .facility-container {
+      gap: var(--gap-16xl);
+      padding-left: 57px;
+      padding-right: var(--padding-32xl);
+      box-sizing: border-box;
+    }
+    .campuses {
+      font-size: var(--font-size-19xl);
+    }
+    .facility-container-parent {
+      gap: 24px;
+      padding-bottom: 33px;
+      box-sizing: border-box;
+    }
+    .binus-kemanggisan {
+      font-size: var(--font-size-19xl);
+    }
+    .kemanggisan-separator-parent {
+      gap: var(--gap-base);
+      padding-left: 216px;
+      padding-right: var(--padding-136xl);
+      box-sizing: border-box;
+    }
+    .binus-alam-sutera-container {
+      font-size: var(--font-size-19xl);
+    }
+    .frame-wrapper {
+      min-width: 100%;
+    }
+    .frame-parent {
+      gap: 73px;
+      padding-left: 250px;
+      box-sizing: border-box;
+    }
+    .binus-bogor {
+      font-size: var(--font-size-19xl);
+    }
+    .frame-container {
+      min-width: 100%;
+    }
+    .rectangle-parent {
+      padding-left: 85px;
+      padding-right: 77px;
+      box-sizing: border-box;
+    }
+    .binus-malang {
+      font-size: var(--font-size-19xl);
+    }
+    .frame-div {
+      min-width: 100%;
+    }
+    .frame-group {
+      gap: 51px;
+      padding-left: 227px;
+      box-sizing: border-box;
+    }
+    .available-scholarships {
+      font-size: var(--font-size-19xl);
+    }
+    .scholarship-container {
+      gap: 23px;
+    }
+    .frame-section {
+      gap: var(--gap-16xl);
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .universitas-bina-nusantara-container {
+      font-size: var(--font-size-base);
+    }
+    .fakultas-unggulan,
+    .school-of-design {
+      font-size: var(--font-size-lgi);
+    }
+    .interior-design- {
+      font-size: var(--font-size-base);
+    }
+    .school-of-computer {
+      font-size: var(--font-size-lgi);
+    }
+    .cyber-security- {
+      font-size: var(--font-size-base);
+    }
+    .school-of-information {
+      font-size: var(--font-size-lgi);
+    }
+    .information-systems- {
+      font-size: var(--font-size-base);
+    }
+    .facility {
+      font-size: var(--font-size-10xl);
+    }
+    .binus-tv-lapangan-container,
+    .lab-komputer-lab-container,
+    .reguler-classroom-smart-container {
+      font-size: var(--font-size-lgi);
+    }
+    .reguler-classroom-smart-class-parent {
+      gap: var(--gap-base);
+    }
+    .binus-kemanggisan,
+    .campuses {
+      font-size: var(--font-size-10xl);
+    }
+    .lorem-ipsum-dolor {
+      font-size: var(--font-size-lgi);
+    }
+    .kemanggisan-separator-parent {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .binus-alam-sutera-container {
+      font-size: var(--font-size-10xl);
+    }
+    .lorem-ipsum-dolor1 {
+      font-size: var(--font-size-lgi);
+    }
+    .frame-wrapper {
+      min-width: 100%;
+    }
+    .frame-parent {
+      gap: 36px;
+      padding-left: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .binus-bogor {
+      font-size: var(--font-size-10xl);
+    }
+    .lorem-ipsum-dolor2 {
+      font-size: var(--font-size-lgi);
+    }
+    .frame-container {
+      min-width: 100%;
+    }
+    .rectangle-parent {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .binus-malang {
+      font-size: var(--font-size-10xl);
+    }
+    .lorem-ipsum-dolor3 {
+      font-size: var(--font-size-lgi);
+    }
+    .frame-div {
+      min-width: 100%;
+    }
+    .frame-group {
+      gap: 25px;
+      padding-left: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .available-scholarships {
+      font-size: var(--font-size-10xl);
+    }
+    .frame-section {
+      gap: var(--gap-mid);
+    }
+  }
+  

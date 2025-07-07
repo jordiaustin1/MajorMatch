@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MajorMatch | Interest Aptitude Test</title>
+    <link rel="stylesheet" href="styles_aptitude.css">
+</head>
+<body>
+    <div class="progress-container">
+        <h2 class="title-container">Interest Aptitude Test</h2>
+        <div class="progress-bar-container">
+            <div class="question-circle" id="current-question">1</div>
+            <div class="progress-bar">
+                <div class="progress"></div>
+            </div>
+            <div class="question-circle" id="total-questions">10</div>
+        </div>
+    </div>
+    <div class="question-box">
+        <div class="question-container">
+            <p class="question-text" id="question-text"></p>
+            <div class="options-container" id="options-container"></div>
+        </div>
+    </div>
+    <div class="button-container">
+        <button onclick="previousQuestion()">Previous</button>
+        <button onclick="nextQuestion()">Next</button>
+    </div>
+
+    <script src="script_aptitude.js"></script>
+</body>
+</html>

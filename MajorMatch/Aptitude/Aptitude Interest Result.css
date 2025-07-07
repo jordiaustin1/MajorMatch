@@ -1,0 +1,221 @@
+/* Aptitude Interest Result.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.top-box {
+    width: 100%;
+    height: 35px; 
+    background: linear-gradient(to right, #0A329B, #4285F4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px; 
+}
+
+.rounded-box {
+    width: 100%;
+    height: 130px; 
+    background-color: #85A8E3;
+    display: flex;
+    align-items: center;
+    padding-left: 40px; 
+    color: white;
+    font-size: 24px; 
+    border-bottom-left-radius: 25px; 
+    border-bottom-right-radius: 25px;
+    justify-content: flex-start; 
+}
+
+.middle-content {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* Highlighted Text */
+.highlighted-text h3 {
+  font-size: 28px;
+  color: #012169;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.highlighted-text h2 {
+  font-size: 24px;
+  color:#7096D1;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.highlighted-text p {
+  font-size: 18px;
+  color: #012169;
+  line-height: 1.8;
+  text-align: justify;
+  margin-bottom: 30px;
+}
+
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.rounded-box h2 {
+    color: #0A329B;
+    letter-spacing: 8px; 
+}
+.available-scholarship,
+.choice-of-colleges {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.choice-of-colleges {
+  flex: 1;
+  min-width: 418px;
+}
+.available-scholarship {
+  width: 631px;
+}
+.option-one-details-child,
+.option-one-icon {
+  position: absolute;
+  border-radius: var(--br-31xl);
+}
+.option-one-icon {
+  top: 44px;
+  left: 90.61px;
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-gainsboro-100);
+  width: 455.9px;
+  height: 571.9px;
+  transform: rotate(3.7deg);
+  transform-origin: 0 0;
+}
+.option-one-details-child {
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 300px;
+  z-index: 1;
+}
+.option-one-details {
+  height: 300px;
+  width: 300px;
+  position: relative;
+  max-width: 100%;
+  padding-left: 10rem;
+}
+.option-one,
+.option-one-child {
+  height: 752px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.option-one-child {
+  width: 645px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.option-one {
+  width: 685px;
+  margin: 0 !important;
+  position: absolute;
+  top: -47px;
+  left: -657px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 47px 56px;
+  box-sizing: border-box;
+}
+.option-two-details-child,
+.option-two-icon {
+  position: absolute;
+  border-radius: var(--br-31xl);
+}
+.option-two-icon {
+  top: 37px;
+  left: 104.31px;
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-gainsboro-100);
+  width: 423px;
+  height: 585.1px;
+  transform: rotate(4.5deg);
+  transform-origin: 0 0;
+}
+.option-two-details-child {
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 300px;
+  z-index: 1;
+}
+.option-two-details {
+  height: 653.7px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.option-two,
+.scholarship-options {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.option-two {
+  flex: 1;
+  overflow: hidden;
+  padding: 13px var(--padding-38xl) 101.3px 60px;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.scholarship-options {
+  align-self: stretch;
+  position: relative;
+}
+.college-details,
+.scholarship-info {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.scholarship-info {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 83.5px;
+  min-width: 418px;
+}
+.college-details {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+}
+.college-info {
+  width: 1404px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 52px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
